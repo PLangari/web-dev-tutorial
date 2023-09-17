@@ -8,7 +8,7 @@ function Navbar() {
     <div className='navbar'>
         <Box className='container'>
             <Link to="/" className='link'>Home</Link>
-            <Link to="/projects" className='link'>Projects</Link>
+            <Link to="/experience" className='link'>Experience</Link>
         </Box>
     </div>
   )
